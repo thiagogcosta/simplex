@@ -26,11 +26,7 @@ Thiago Aparecido Gonçalves da Costa     53724 - 1
 
 <h3>Guia de utilização da solução do Simplex</h3>
 
-<p>Clique em "Minimizar"  </p>
-
-<ul>
-<li>Minimizar Z = 2x1 - 3x2<br></li>
-</ul>
+<p>Minimizar Z = 2x1 - 3x2<br></p>
 
 <p>Expressão</p>
 
