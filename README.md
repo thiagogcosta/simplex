@@ -1,13 +1,11 @@
 # simplex
 Repositório contendo o trabalho de Pesquisa Operacional - !Complex
-version 1.2
-   João Ricardo Ito Messias                53681 - 4
-   
-   Leonardo Ademir Tonezi dos Santos       54020 - 1
-   
-   Matheus Ferraroni Sanches               53574 - 5
-   
-   Thiago Aparecido Gonçalves da Costa     53724 - 1
+version 1.2 </br>
+
+João Ricardo Ito Messias                53681 - 4 </br>
+Leonardo Ademir Tonezi dos Santos       54020 - 1 </br>
+Matheus Ferraroni Sanches               53574 - 5 </br>
+Thiago Aparecido Gonçalves da Costa     53724 - 1
 
 Projeto de Pesquisa Operacional
  * 6º Semestre de Bacharelado em Ciência da Computação
