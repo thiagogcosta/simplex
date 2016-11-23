@@ -46,10 +46,11 @@ x1 - x2 &lt;=6 <br>
 x1, x2 >= 0 </p>
 </blockquote>
 
-<p>Clique em "Minimizar"  </p>
+<p>Utilize o botão "+" para adicionar campos de textos adicionais para restrições.<br>
+Utilize o botão "-" para remover campos de textos adicionais para restrições.<br>
+Além disso, há a possibilidade da utilização de "tabs" para a adição automática de restrições.</p>
 
-<p>Utilize o botão "Add Restrição" para adicionar campos de textos adicionais para restrições.<br>
-Utilize o botão "-" para remover campos de textos adicionais para restrições.  </p>
+<p>Clique em "Minimizar"  </p>
 
 <ul>
 <li>Resultado<br></li>
