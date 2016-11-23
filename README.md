@@ -18,10 +18,9 @@ Thiago Aparecido Gonçalves da Costa     53724 - 1
 <h3>Ferramentas</h3>
 
 <ul>
-<li><p>Ruby 2.1.3p242  </p></li>
-<li><p>Rails 4.1.6  </p></li>
+<li><p>Javascript</p></li>
 <li><p>Bootstrap 3.3.5  </p></li>
-<li><p>jQuery / AJAX / CoffeeScript 2.2.0 </p></li>
+<li><p>jQuery </p></li>
 </ul>
 
 <h3>Guia de utilização da solução do Simplex</h3>
