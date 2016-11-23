@@ -28,13 +28,13 @@ Thiago Aparecido Gonçalves da Costa     53724 - 1
 
 <p>Minimizar Z = 2x1 - 3x2<br></p>
 
-<p>Expressão</p>
+<h4>Expressão</h4>
 
 <blockquote>
 <p>2x1 - 3x2</p>
 </blockquote>
 
-<p>Restrições</p>
+<h4>Restrições</h4>
 
 <blockquote>
 <p>x1 + x2 &lt;=4 <br>
@@ -48,8 +48,6 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 
 <p>Clique em "Minimizar"  </p>
 
-<ul>
-<li>Resultado<br></li>
-</ul>
+<h4>Resultado</h4>
 
 <p>É exibido o passo a passo das tabelas geradas pelo método simplex, com número máximo de 20 iterações.  </p>
