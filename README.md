@@ -8,6 +8,6 @@ Matheus Ferraroni Sanches               53574 - 5
 Thiago Aparecido Gonçalves da Costa     53724 - 1
 
 Projeto de Pesquisa Operacional
-  6º Semestre de Bacharelado em Ciência da Computação
+ * 6º Semestre de Bacharelado em Ciência da Computação
   
 Implementação do método simplex em Javascript para resolução de sistemas lineares, a aplicação resolve problemas de maximização e minimização para expressões e restrições menores ou iguais a zero (<=).
