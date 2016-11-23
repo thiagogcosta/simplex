@@ -1,5 +1,5 @@
 # simplex
-Repositório contendo o trabalho de Pesquisa Operacional - !Complex </br>
+Repositório contendo o trabalho de Pesquisa Operacional - !Complex <h2> tag </br>
 version 1.2 </br>
 
 João Ricardo Ito Messias                53681 - 4 </br>
