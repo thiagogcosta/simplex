@@ -50,4 +50,4 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 
 <h4>Resultado</h4>
 
-<p>É exibido o passo a passo das tabelas geradas pelo método simplex, com número máximo de 20 iterações.  </p>
+<p>É exibido o passo a passo das tabelas geradas pelo método simplex. </p>
