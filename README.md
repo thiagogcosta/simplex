@@ -1,6 +1,6 @@
 # simplex
 <h3>Repositório contendo o trabalho de Pesquisa Operacional - !Complex </h3>
-*version 1.2*</br>
+*version 1.1*</br>
 
 João Ricardo Ito Messias                53681 - 4 </br>
 Leonardo Ademir Tonezi dos Santos       54020 - 1 </br>
@@ -121,7 +121,7 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 
 <p>É exibido o passo a passo das tabelas geradas pelo método simplex. </p>
 
-# Nota de Liberação Simplex versão 1.4
+# Nota de Liberação Simplex versão 1.1
 
 <h3>Introdução</h3>
 
