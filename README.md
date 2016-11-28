@@ -148,7 +148,7 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 <h3>3. Datas Importantes</h3>
 <p>Segue abaixo as datas importantes do desenvolvimento:</p>
 
-<table border="2">
+<table border="1">
 <tr>
 <td><b>Data</b></td>
 <td><b>Evento</b></td>
@@ -178,7 +178,7 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 
 <h3>4. Compatibilidade</h3>
 <p>Segue abaixo os requisitos</p>
-<table border="2">
+<table border="1">
 <tr>
 <td><b>Requisitos</b></td>
 <td><b>Ferramentas</b></td>
@@ -189,9 +189,9 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 </tr>
 </table>
 
-</h3>5. Objetivos Concluídos</h3>
+<h3>5. Objetivos Concluídos</h3>
 
-<table>
+<table border="1">
 <tr>
 <td>1</td>
 <td>Maximizar</td>
