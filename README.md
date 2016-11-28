@@ -21,29 +21,9 @@ Thiago Aparecido Gonçalves da Costa     53724 - 1
 <li><p>Javascript</p></li>
 <li><p>Bootstrap</p></li>
 <li><p>jQuery </p></li>
-<td><b>Tecnologias</b></td>
-<td><b>Ferramentas</b></td>
-</tr>
-<tr>
-<td>Front-End</td>
-<td>HTML, CSS</td>
-</tr>
-<tr>
-<td>Back-End</td>
-<td>---</td>
-</tr>
-<tr>
-<td>Framework WEB</td>
-<td>---</td>
-</tr>
-<tr>
-<td>IDE</td>
-<td>---</td>
-</tr>
-<tr>
-<td>Editor de Texto</td>
-<td>---</td>
-</tr>
+<li><p>Editor de texto: Notepad++ </p></li>
+<li><p>Editor de texto: Sublime </p></li>
+<li><p>Hospedagem: Hostinger++ </p></li>
 </ul>
 
 <h3>Guia de utilização da solução do Simplex</h3>
