@@ -189,45 +189,16 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 </tr>
 </table>
 
-<tr>
-<td>1</td>
-<td>Calcular</td>
-<td>Montar a Tabela programação dinâmica, e possibilitar o usuário a calcular o algoritmo da mochila.</td>
-<td>Concluído</td>
-<td>Apenas números inteiros e com pesos diferentes</td>
-</tr>
-
-<tr>
-<td>2</td>
-<td>Adição de itens</td>
-<td>Possibilitar o usuário a adicionar inputs para os itens.</td>
-<td>Concluído</td>
-<td></td>
-</tr>
-
-<tr>
-<td>3</td>
-<td>Tabela de Programação Dinâmica</td>
-<td>Demonstrar ao usuário a tabela da programação dinâmica.</td>
-<td>Concluído</td>
-<td></td>
-</tr>
+<table>
 
 <tr>
 <td>1</td>
 <td>Maximizar</td>
 <td>Montar a Tabela Simplex, e possibilitar o usuário a maximizar modelos de simplex com sistemas lineares.</td>
 <td>Concluído</td>
-<td>Apenas números inteiros e com pesos diferentes</td>
-</tr>
-
-<tr>
-<td>1</td>
-<td>Calcular</td>
-<td>Montar a Tabela programação dinâmica, e possibilitar o usuário a calcular o algoritmo da mochila.</td>
-<td>Concluído</td>
 <td>Apenas restrições "menores iguais"</td>
 </tr>
+
 
 <tr>
 <td>2</td>
@@ -242,6 +213,7 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 <td>Adição de Restrições</td>
 <td>Possibilitar o usuário a adicionar inputs para maiores números de restrições.</td>
 <td>Concluído</td>
+<td>Apenas restrições "menores iguais"</td>
 <td></td>
 </tr>
 
@@ -261,16 +233,9 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 <td></td>
 </tr>
 
-<tr>
-<td>6</td>
-<td>Tabela de sensibilidade</td>
-<td>Demonstrar ao usuário a tabela de sensibilidade.</td>
-<td>Concluído</td>
-<td></td>
-</tr>
 
 <tr>
-<td>7</td>
+<td>6</td>
 <td>Tratamento de modelos sem solução</td>
 <td>Tratar os erros com modelos sem solução e com iterações infinitas.</td>
 <td>Concluído</td>
