@@ -26,7 +26,9 @@ Thiago Aparecido Gonçalves da Costa     53724 - 1
 <li><p>Hospedagem: Hostinger++ </p></li>
 </ul>
 
-<h3>Guia de utilização da solução do Simplex</h3>
+<h3>Guia de utilização da solução do !Complex</h3>
+
+<h4>Maximização</h4>
 
 <p>Maximizar Z = 3*x1 + 5*x2<br></p>
 
@@ -85,6 +87,36 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 
 <blockquote>
 <p>Z=74444.444444444</p>
+</blockquote>
+
+<h4>Minimização</h4>
+
+<p>Minimizar Z = 2*X - 3*Y<br></p>
+
+<h4>Expressão</h4>
+
+<blockquote>
+<p>2*X - 3*Y</p>
+</blockquote>
+
+<h4>Restrições</h4>
+
+<blockquote>
+<p>1*X + 1*Y &lt;=4 <br>
+1*X - 1*Y &lt;=6 <br>
+X, Y >= 0 </p>
+</blockquote>
+
+<p>Utilize o botão "+" para adicionar campos de textos adicionais para restrições.<br>
+Utilize o botão "-" para remover campos de textos adicionais para restrições.<br>
+Além disso, há a possibilidade da utilização de "tabs" para a adição automática de restrições.</p>
+
+<p>Clique em "Minimizar"  </p>
+
+<h4>Resultado</h4>
+
+<blockquote>
+<p>Z=-12</p>
 </blockquote>
 
 <p>É exibido o passo a passo das tabelas geradas pelo método simplex. </p>
@@ -156,34 +188,6 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 <td>Mozila Firefox, Chrome, Internet Explorer</td>
 </tr>
 </table>
-<p>Tecnologias</p>
-<table border="2">
-<tr>
-<tr>
-<td>Design Pattern</td>
-<td>---</td>
-</tr>
-<tr>
-<td>Servidor WEB</td>
-<td>---</td>
-</tr>
-</table>
-
-<h3>5. Procedimento E ALTERAÇAO DE CONFIGURAÇÃO do Ambiente</h3>
-
-<p>Para alteração no ambiente é necessário possuir o Git e o kit de ferramenta do Heroku instalados, efetuar o login como administrador do repositório no Heroku e adicionar o repositório remoto com o comando “Heroku Create”. Após as etapas de configurações serem concluídas basta realizar um “push” da branch da aplicação no Git diretamente para o repositório remoto do Heroku. Exemplo: “git push heroku master”.</p>
-
-<h3>6. Atividades Realizadas no Período</h3>
-<p>Nessa liberação foram contemplados os seguintes itens:</p>
-
-<table border="2">
-<tr>
-<td><b>Cód</b></td>
-<td><b>Título</b></td>
-<td><b>Tarefa</b></td>
-<td><b>Situação</b></td>
-<td><b>OBS</b></td>
-</tr>
 
 <tr>
 <td>1</td>
