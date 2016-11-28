@@ -176,7 +176,7 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 </table>
 
 
-<h3>Compatibilidade</h3>
+<h3>4. Compatibilidade</h3>
 <p>Segue abaixo os requisitos</p>
 <table border="2">
 <tr>
@@ -189,8 +189,9 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 </tr>
 </table>
 
-<table>
+</h3>5. Objetivos Concluídos</h3>
 
+<table>
 <tr>
 <td>1</td>
 <td>Maximizar</td>
