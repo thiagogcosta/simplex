@@ -30,7 +30,7 @@ Thiago Aparecido Gonçalves da Costa     53724 - 1
 
 <h4>Maximização</h4>
 
-<p>Maximizar Z = 3*x1 + 5*x2<br></p>
+<p>Maximizar Z = 3*X + 5*Y<br></p>
 
 <h4>Expressão</h4>
 
