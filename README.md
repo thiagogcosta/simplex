@@ -154,23 +154,27 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 <td><b>Evento</b></td>
 </tr>
 <tr>
-<td>31/10/2016</td>
-<td>Resolver Problemas de Programação Linear</td>
+<td>24/10/2016 -> 31/10/2016</td>
+<td>Resolver Problemas de Programação Linear com objetivo de Maximização</td>
 </tr>
 <tr>
-<td>04/11/2016</td>
+<td>31/10/2016 -> 03/11/2016</td>
+<td>Resolver Problemas de Programação Linear com objetivo de Minimização</td>
+</tr>
+<tr>
+<td>04/11/2016 -> 05/11/2016</td>
 <td>Interpretação econômica dos resultados</td>
 </tr>
 <tr>
-<td>06/11/2016</td>
+<td>06/11/2016 -> 07/11/2016</td>
 <td>Interpretação completa dos resultados</td>
 </tr>
 <tr>
-<td>08/11/2016</td>
+<td>08/11/2016 -> 08/11/2016</td>
 <td>Apresentar todas as iterações do Simplex</td>
 </tr>
 <tr>
-<td>09/11/2016</td>
+<td>09/11/2016 -> 11/11/2016</td>
 <td>Início de Criação dinâmica de um modelo de aplicativo</td>
 </tr>
 </table>
