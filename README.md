@@ -12,46 +12,108 @@ Thiago Aparecido Gonçalves da Costa     53724 - 1
   
 <p>Implementação do método simplex em Javascript para resolução de sistemas lineares, a aplicação resolve problemas de maximização e minimização para expressões e restrições menores ou iguais a zero (&lt;=).</p>
 
-<h3>Ferramentas</h3>
+<h3>Tecnologias e Ferramentas</h3>
 
 <ul>
+<li><p>HTML</p></li>
+<li><p>CSS</p></li>
+<li><p>PHP</p></li>
 <li><p>Javascript</p></li>
-<li><p>Bootstrap 3.3.5  </p></li>
+<li><p>Bootstrap</p></li>
 <li><p>jQuery </p></li>
+<td><b>Tecnologias</b></td>
+<td><b>Ferramentas</b></td>
+</tr>
+<tr>
+<td>Front-End</td>
+<td>HTML, CSS</td>
+</tr>
+<tr>
+<td>Back-End</td>
+<td>---</td>
+</tr>
+<tr>
+<td>Framework WEB</td>
+<td>---</td>
+</tr>
+<tr>
+<td>IDE</td>
+<td>---</td>
+</tr>
+<tr>
+<td>Editor de Texto</td>
+<td>---</td>
+</tr>
 </ul>
 
 <h3>Guia de utilização da solução do Simplex</h3>
 
-<p>Minimizar Z = 2x1 - 3x2<br></p>
+<p>Maximizar Z = 3*x1 + 5*x2<br></p>
 
 <h4>Expressão</h4>
 
 <blockquote>
-<p>2x1 - 3x2</p>
+<p>3*X + 5*Y</p>
 </blockquote>
 
 <h4>Restrições</h4>
 
 <blockquote>
-<p>x1 + x2 &lt;=4 <br>
-x1 - x2 &lt;=6 <br>
-x1, x2 >= 0 </p>
+<p>X &lt;=4 <br>
+Y &lt;=6 <br>
+3*X + 2*Y &lt;=6 <br>
+X, Y >= 0 </p>
 </blockquote>
 
 <p>Utilize o botão "+" para adicionar campos de textos adicionais para restrições.<br>
 Utilize o botão "-" para remover campos de textos adicionais para restrições.<br>
 Além disso, há a possibilidade da utilização de "tabs" para a adição automática de restrições.</p>
 
-<p>Clique em "Minimizar"  </p>
+<p>Clique em "Maximizar"  </p>
 
 <h4>Resultado</h4>
+
+<blockquote>
+<p>Z=36</p>
+</blockquote>
+
+</hr>
+
+<p>Maximizar Z = 11*X + 12*Y<br></p>
+
+<h4>Expressão</h4>
+
+<blockquote>
+<p>11*X + 12*Y</p>
+</blockquote>
+
+<h4>Restrições</h4>
+
+<blockquote>
+<p>1*X + 4*Y &lt;=1000 <br>
+5*X + 2*Y &lt;=30000 <br>
+X, Y >= 0 </p>
+</blockquote>
+
+<p>Utilize o botão "+" para adicionar campos de textos adicionais para restrições.<br>
+Utilize o botão "-" para remover campos de textos adicionais para restrições.<br>
+Além disso, há a possibilidade da utilização de "tabs" para a adição automática de restrições.</p>
+
+<p>Clique em "Maximizar"  </p>
+
+<h4>Resultado</h4>
+
+<blockquote>
+<p>Z=74444.444444444</p>
+</blockquote>
+
 <p>É exibido o passo a passo das tabelas geradas pelo método simplex. </p>
 
 # Nota de Liberação Simplex versão 1.4
 
 <h3>Introdução</h3>
 
-<p>Este documento provê uma visão geral da versão do aplicativo Simplex e algoritmo da Mochila que está sendo liberada. Aqui descreveremos as funcionalidades do aplicativo, bem como seus problemas e limitações conhecidos. Por último são descritas as demandas e os problemas que foram resolvidos para liberação da versão atual.</p>
+<p>Este documento provê uma visão geral da versão do aplicativo Simplex. Logo, descreveremos as funcionalidades do aplicativo, bem como seus problemas e limitações conhecidos. Por último são descritas as demandas e os problemas que foram resolvidos para liberação da versão atual.</p>
 
 <h3>1. Nota de release a ser publicado</h3>
 
@@ -60,19 +122,15 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 * Algoritmo Simplex para problemas de maximização.
 * Algoritmo Simplex para problemas de minimização.
 * Demonstrar o passo a passo de iterações na tabela.
-* Tabela de Sensibilidade.
 * Não possuir número fixo para variáveis de decisão.
 * Não possuir número fixo de restrições.
-* Tratamento de erro para modelos sem solução.
 * Tratamento de erro para modelos com infinitas iterações.
 
 <h3>2. Problemas conhecidos e limitações</h3>
 
 <h4>Limitação</h4>
 
-* Os pesos devem ser inteiros e diferentes para o algoritmo.
 * As restrições devem ser estritamente menores ou iguais a 0 (<=) para o Simplex.
-* O tempo de latência pode variar, sendo algumas vezes alto ou baixo.
 
 
 <h3>3. Datas Importantes</h3>
@@ -117,37 +175,10 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 <td>Navegadores</td>
 <td>Mozila Firefox, Chrome, Internet Explorer</td>
 </tr>
-<tr>
-<td>Sistema Operacional</td>
-<td>Ubuntu, RedHat, Windows, Mac</td>
-</tr>
 </table>
 <p>Tecnologias</p>
 <table border="2">
 <tr>
-<td><b>Tecnologias</b></td>
-<td><b>Ferramentas</b></td>
-</tr>
-<tr>
-<td>Front-End</td>
-<td>HTML, CSS</td>
-</tr>
-<tr>
-<td>Back-End</td>
-<td>---</td>
-</tr>
-<tr>
-<td>Framework WEB</td>
-<td>---</td>
-</tr>
-<tr>
-<td>IDE</td>
-<td>---</td>
-</tr>
-<tr>
-<td>Editor de Texto</td>
-<td>---</td>
-</tr>
 <tr>
 <td>Design Pattern</td>
 <td>---</td>
