@@ -72,7 +72,7 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 <h4>Restrições</h4>
 
 <blockquote>
-<p>1*X + 4*Y &lt;=1000 <br>
+<p>1*X + 4*Y &lt;=10000 <br>
 5*X + 2*Y &lt;=30000 <br>
 X, Y >= 0 </p>
 </blockquote>
