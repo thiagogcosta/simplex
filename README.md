@@ -30,41 +30,6 @@ Thiago Aparecido Gonçalves da Costa     53724 - 1
 
 <h4>Maximização</h4>
 
-<p>Primeiramente, adiciona-se a fórmula matemática como exemplificado posteriormente no bloco de expressões. Inclusive, separe por espaços cada elemento.</p>
-
-<p>Maximizar Z = 3*X + 5*Y<br></p>
-
-<h4>Expressão</h4>
-
-<blockquote>
-<p>3 * X + 5 * Y</p>
-</blockquote>
-
-<h4>Restrições</h4>
-
-<blockquote>
-<p>X &lt;=4 <br>
-Y &lt;=6 <br>
-3 * X + 2 * Y &lt;=6 <br>
-X, Y >= 0 </p>
-</blockquote>
-
-<p>Utilize o botão "Adicionar" para adicionar campos de textos adicionais para restrições.<br>
-Utilize o botão "-" para remover campos de textos adicionais para restrições.<br>
-Além disso, há a possibilidade da utilização de "tabs" para a adição automática de restrições. Observação: o campo
-"valor" precisa estar preenchido
-</p>
-
-<p>Clique em "Maximizar"  </p>
-
-<h4>Resultado</h4>
-
-<p>As tabelas de parciais e final podem ser visualizadas dinâmicamente no canto superior direito.</p>
-
-<blockquote>
-<p>Z=36</p>
-</blockquote>
-
 </hr>
 
 <p>Maximizar Z = 11*X + 12*Y<br></p>
