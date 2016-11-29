@@ -10,7 +10,7 @@ Thiago Aparecido Gonçalves da Costa     53724 - 1
 <h3>Projeto de Pesquisa Operacional</h3>
  * 6º Semestre de Bacharelado em Ciência da Computação
   
-<p>Implementação do método simplex em Javascript para resolução de sistemas lineares, a aplicação resolve problemas de maximização e minimização para expressões e restrições menores ou iguais a zero (&lt;=).</p>
+<p>Implementação do método simplex em Javascript e PHP, no qual utilizamos a primeira para manipulação da interface e comunicação com segunda que foi responsável pela resolução de sistemas lineares, a aplicação resolve problemas de maximização e minimização para expressões e restrições menores ou iguais a zero (&lt;=).</p>
 
 <h3>Tecnologias e Ferramentas</h3>
 
@@ -30,12 +30,14 @@ Thiago Aparecido Gonçalves da Costa     53724 - 1
 
 <h4>Maximização</h4>
 
+<p>Primeiramente, adiciona-se a fórmula matemática como exemplificado posteriormente no bloco de expressões. Inclusive, separe por espaços cada elemento.</p>
+
 <p>Maximizar Z = 3*X + 5*Y<br></p>
 
 <h4>Expressão</h4>
 
 <blockquote>
-<p>3*X + 5*Y</p>
+<p>3 * X + 5 * Y</p>
 </blockquote>
 
 <h4>Restrições</h4>
@@ -43,17 +45,21 @@ Thiago Aparecido Gonçalves da Costa     53724 - 1
 <blockquote>
 <p>X &lt;=4 <br>
 Y &lt;=6 <br>
-3*X + 2*Y &lt;=6 <br>
+3 * X + 2 * Y &lt;=6 <br>
 X, Y >= 0 </p>
 </blockquote>
 
-<p>Utilize o botão "+" para adicionar campos de textos adicionais para restrições.<br>
+<p>Utilize o botão "Adicionar" para adicionar campos de textos adicionais para restrições.<br>
 Utilize o botão "-" para remover campos de textos adicionais para restrições.<br>
-Além disso, há a possibilidade da utilização de "tabs" para a adição automática de restrições.</p>
+Além disso, há a possibilidade da utilização de "tabs" para a adição automática de restrições. Observação: o campo
+"valor" precisa estar preenchido
+</p>
 
 <p>Clique em "Maximizar"  </p>
 
 <h4>Resultado</h4>
+
+<p>As tabelas de parciais e final podem ser visualizadas dinâmicamente no canto superior direito.</p>
 
 <blockquote>
 <p>Z=36</p>
@@ -77,19 +83,25 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 X, Y >= 0 </p>
 </blockquote>
 
-<p>Utilize o botão "+" para adicionar campos de textos adicionais para restrições.<br>
+<p>Utilize o botão "Adicionar" para adicionar campos de textos adicionais para restrições.<br>
 Utilize o botão "-" para remover campos de textos adicionais para restrições.<br>
-Além disso, há a possibilidade da utilização de "tabs" para a adição automática de restrições.</p>
+Além disso, há a possibilidade da utilização de "tabs" para a adição automática de restrições. Observação: o campo
+"valor" precisa estar preenchido
+</p>
 
 <p>Clique em "Maximizar"  </p>
 
 <h4>Resultado</h4>
+
+<p>As tabelas de parciais e final podem ser visualizadas dinâmicamente no canto superior direito.</p>
 
 <blockquote>
 <p>Z=74444.444444444</p>
 </blockquote>
 
 <h4>Minimização</h4>
+
+<p>Primeiramente, adiciona-se a fórmula matemática como exemplificado posteriormente no bloco de expressões. Inclusive, separe por espaços cada elemento.</p>
 
 <p>Minimizar Z = 2*X - 3*Y<br></p>
 
@@ -107,13 +119,17 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 X, Y >= 0 </p>
 </blockquote>
 
-<p>Utilize o botão "+" para adicionar campos de textos adicionais para restrições.<br>
+<p>Utilize o botão "Adicionar" para adicionar campos de textos adicionais para restrições.<br>
 Utilize o botão "-" para remover campos de textos adicionais para restrições.<br>
-Além disso, há a possibilidade da utilização de "tabs" para a adição automática de restrições.</p>
+Além disso, há a possibilidade da utilização de "tabs" para a adição automática de restrições. Observação: o campo
+"valor" precisa estar preenchido
+</p>
 
 <p>Clique em "Minimizar"  </p>
 
 <h4>Resultado</h4>
+
+<p>As tabelas de parciais e final podem ser visualizadas dinâmicamente no canto superior direito.</p>
 
 <blockquote>
 <p>Z=-12</p>
@@ -143,6 +159,7 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 <h4>Limitação</h4>
 
 * As restrições devem ser estritamente menores ou iguais a 0 (<=) para o Simplex.
+* Tem que dar espaço para consguirmos montarmos a tabela primária.
 
 
 <h3>3. Datas Importantes</h3>
@@ -243,6 +260,14 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 <td>6</td>
 <td>Tratamento de modelos sem solução</td>
 <td>Tratar os erros com modelos sem solução e com iterações infinitas.</td>
+<td>Concluído</td>
+<td></td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>Responsivo</td>
+<td>Tratamento de Layout para diferentes tipos de tela.</td>
 <td>Concluído</td>
 <td></td>
 </tr>
