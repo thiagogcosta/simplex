@@ -33,6 +33,8 @@ Thiago Aparecido Gonçalves da Costa     53724 - 1
 </hr>
 <p>Primeiramente, adiciona-se a fórmula matemática como exemplificado posteriormente no bloco de expressões. Inclusive, separe por espaços cada elemento.</p>
 
+<p> Obs: Caso queira colocar a regra: X &lt;= 10, coloque 1 * X &lt;= 10. </p>
+
 <p>Maximizar Z = 11*X + 12*Y<br></p>
 
 <h4>Expressão</h4>
@@ -101,6 +103,8 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 <h4>Minimização</h4>
 
 <p>Primeiramente, adiciona-se a fórmula matemática como exemplificado posteriormente no bloco de expressões. Inclusive, separe por espaços cada elemento.</p>
+
+<p> Obs: Caso queira colocar a regra: X &lt;= 10, coloque 1 * X &lt;= 10. </p>
 
 <p>Minimizar Z = 2*X - 3*Y<br></p>
 
