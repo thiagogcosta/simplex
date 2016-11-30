@@ -1,6 +1,6 @@
 # simplex
 <h3>Repositório contendo o trabalho de Pesquisa Operacional - !Complex </h3>
-*version 1.1*</br>
+*version 1.2*</br>
 
 João Ricardo Ito Messias                53681 - 4 </br>
 Leonardo Ademir Tonezi dos Santos       54020 - 1 </br>
@@ -31,6 +31,7 @@ Thiago Aparecido Gonçalves da Costa     53724 - 1
 <h4>Maximização</h4>
 
 </hr>
+<p>Primeiramente, adiciona-se a fórmula matemática como exemplificado posteriormente no bloco de expressões. Inclusive, separe por espaços cada elemento.</p>
 
 <p>Maximizar Z = 11*X + 12*Y<br></p>
 
@@ -58,10 +59,43 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 
 <h4>Resultado</h4>
 
-<p>As tabelas de parciais e final podem ser visualizadas dinâmicamente no canto superior direito.</p>
-
 <blockquote>
 <p>Z=74444.444444444</p>
+</blockquote>
+
+<h4>Maximização</h4>
+
+</hr>
+
+<p>Maximizar Z = 3 * X + 5 * Y<br></p>
+
+<h4>Expressão</h4>
+
+<blockquote>
+<p>3* X + 5 * Y</p>
+</blockquote>
+
+<h4>Restrições</h4>
+
+<blockquote>
+<p>1*X &lt;=4 <br>
+Y &lt;=6 <br>
+3 * X + 2 * Y &lt;=18 <br>
+X, Y >= 0 </p>
+</blockquote>
+
+<p>Utilize o botão "Adicionar" para adicionar campos de textos adicionais para restrições.<br>
+Utilize o botão "-" para remover campos de textos adicionais para restrições.<br>
+Além disso, há a possibilidade da utilização de "tabs" para a adição automática de restrições. Observação: o campo
+"valor" precisa estar preenchido
+</p>
+
+<p>Clique em "Maximizar"  </p>
+
+<h4>Resultado</h4>
+
+<blockquote>
+<p>Z=36</p>
 </blockquote>
 
 <h4>Minimização</h4>
@@ -93,8 +127,6 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 <p>Clique em "Minimizar"  </p>
 
 <h4>Resultado</h4>
-
-<p>As tabelas de parciais e final podem ser visualizadas dinâmicamente no canto superior direito.</p>
 
 <blockquote>
 <p>Z=-12</p>
@@ -237,3 +269,9 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 <td></td>
 </tr>
 </table>
+
+<h3>6. Atualização de Versão</h3>
+<p>1.2</p>
+*Retiramos a parte do layout que demonstrava a solução na tela principal;
+*Adicionamos um tutorial quando inicia a aplicação;
+*Adicionamos mais um exemplo retirado do slide para testar a funcionalidade.
