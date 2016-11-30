@@ -272,6 +272,7 @@ Além disso, há a possibilidade da utilização de "tabs" para a adição autom
 
 <h3>6. Atualização de Versão</h3>
 <p>1.2</p>
-*Retiramos a parte do layout que demonstrava a solução na tela principal;
-*Adicionamos um tutorial quando inicia a aplicação;
-*Adicionamos mais um exemplo retirado do slide para testar a funcionalidade.
+
+* Retiramos a parte do layout que demonstrava a solução na tela principal;
+* Adicionamos um tutorial quando inicia a aplicação;
+* Adicionamos mais um exemplo retirado do slide para testar a funcionalidade.
